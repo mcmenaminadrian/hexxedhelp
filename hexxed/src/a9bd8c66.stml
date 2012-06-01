@@ -1,0 +1,14 @@
+:title Undo, Redo and Repeat
+:label undo
+
+Hexxed uses a Vi-like interface:
+
+- **u** Undo last edit
+- **Nu** eg 5u, undo last N edits
+- **:e!** undo all edits since beginning of session
+- **CTRL+r** ie, Control key plus r, redo last undo
+- **N[CTRL+r]** redo last N undos
+- **.** repeat last edit
+- **N.** eg 3., repeat last N edits
+
+<<home|Return to home page>>

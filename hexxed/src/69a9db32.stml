@@ -1,0 +1,12 @@
+:title Editing, inserting and deleting
+:label edit
+
+Hexxed uses a Vi-like set of commands:
+
+- **i** will allow you to edit the currently selected cell
+- **Ni** eg 3i will insert N zero 8/16/32 or 64 bit entries before your selected cell and leave you in insert mode
+- **x** will delete the currently selected cell
+- **Nx** eg 5x will delete the next N cells
+- **ESC** (escape key) will leave insert mode
+
+<<home|Return to home page>>

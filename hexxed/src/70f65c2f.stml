@@ -1,0 +1,29 @@
+:title Navigation
+:label navigating
+
+Hexxed uses a Vi-like interface:
+
+- **ENTER** (Return key) move down a line
+- **h** Move left
+- **Nh** eg 5h, move N cells left
+- **l** Move right
+- **Nl** eg 4l, move N cells right
+- **j** Move selection down a line
+- **Nj** eg 9j, move selection down N lines
+- **k** move selection up a line
+- **Nk** eg 7k, move selection up N lines
+- **{** Go back one block (if block addressing being used)
+- **}** Go forward one block (if block addressing being used)
+- **N{** eg 4{, Go back N blocks
+- **N}** eg 2}, go forward N blocks
+- **(** Go back half a screen
+- **CTRL+u** ie Control key plus u pressed together, go back half a screen
+- **N(** or **N[CTRL+u]** eg 7( go back N half screens
+- **)** Go forward half a screen
+- **CTRL+d** ie Control key plus d pressed together, go forward half a screen
+- **N)** or **N[CTRL+d]** eg 5), go forward N half screens
+- **CTRL+b** ie Control key plus b pressed together, go back a whole screen
+- **N[CTRL+b]** Go back N whole screens
+- **CTRL+f** ie Control Key plus f pressed together, go forward a whole screen
+
+<<home|Return to home page>>

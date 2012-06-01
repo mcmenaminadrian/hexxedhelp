@@ -1,0 +1,38 @@
+:title Hexxed
+:label home
+
+
+:h3 About Hexxed
+Hexxed is a free software hex editor written in the Groovy language (and so should be runnable anywhere you can use standard Java code).
+
+As Hexxed is free software you are able to take the source code and edit it to do what you want with it (provided you respect the terms of the GNU General Public License under which it is provided to you). Alternatively you can ask the author, Adrian McMenamin, via [[mailto://adrianmcmenamin@gmail.com|email]] to consider updating the code.
+
+The code is copyright © Adrian McMenamin, 2012.
+~~
+~~
+~~
+
+
+:h3 Why Use Hexxed?
+There are a multitude of hex editors about, so why use this one?
+
+Well, in the end you should use the editor you feel happiest with, but we think Hexxed as a few reasons to recommend it:
+- It's free software so you have rights in perpetutity to use it under the license
+- It is written to be used on any platform where standard Java will run
+- It handles data in 8, 16, 32 and 64 bit formats, including displaying 16 bit unicode
+- It will display data in big- and little-endian formats
+- It will display addresses in both linear and block:offset format
+- It uses a user interface designed to be like the familiar Vi editor
+
+
+It's not perfect though, so please report any bugs.
+~~
+~~
+~~
+:h3 Help contents
+- <<edit|Editing, inserting and deleting>>
+- <<undo|Undoing, redoing and repeating>>
+- <<navigating|Navigation>>
+- <<block|Block sizes>>
+- <<endian|Little- and big-endian display>>
+- <<Licence|Licensing terms>>

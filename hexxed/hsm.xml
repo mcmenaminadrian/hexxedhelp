@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HelpSetMaker>
+<DocumentProperties>
+<Value Key="project.charset">ISO-8859-1</Value>
+<Value Key="stml.charset">UTF-8</Value>
+</DocumentProperties>
+<DocumentTree>
+<DocumentNode>
+<Filename>aebd0085</Filename>
+<Title>Hexxed</Title>
+<Label>home</Label>
+<FullTextSearch>true</FullTextSearch>
+<PageLinkBroken>true</PageLinkBroken>
+<DocumentNode>
+<Filename>5ff27b14</Filename>
+<Title>Licence terms</Title>
+<Label>Licence</Label>
+<FullTextSearch>true</FullTextSearch>
+</DocumentNode>
+<DocumentNode>
+<Filename>69a9db32</Filename>
+<Title>Editing, inserting and deleting</Title>
+<Label>edit</Label>
+<FullTextSearch>true</FullTextSearch>
+<DocumentNode>
+<Filename>a9bd8c66</Filename>
+<Title>Undo, Redo and Repeat</Title>
+<Label>undo</Label>
+<FullTextSearch>true</FullTextSearch>
+</DocumentNode>
+<DocumentNode>
+<Filename>70f65c2f</Filename>
+<Title>Navigation</Title>
+<Label>navigating</Label>
+<FullTextSearch>true</FullTextSearch>
+</DocumentNode>
+<DocumentNode>
+<Filename>25b45a2a</Filename>
+<Title>Blocks</Title>
+<Label>block</Label>
+<FullTextSearch>true</FullTextSearch>
+</DocumentNode>
+</DocumentNode>
+</DocumentNode>
+<Label Name="Licence">5ff27b14</Label>
+<Label Name="block">25b45a2a</Label>
+<Label Name="edit">69a9db32</Label>
+<Label Name="home">aebd0085</Label>
+<Label Name="navigating">70f65c2f</Label>
+<Label Name="undo">a9bd8c66</Label>
+</DocumentTree>
+<ImageLibrary>
+<ThumbnailSize>100</ThumbnailSize>
+</ImageLibrary>
+</HelpSetMaker>

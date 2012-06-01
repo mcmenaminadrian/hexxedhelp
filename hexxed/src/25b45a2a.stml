@@ -1,0 +1,7 @@
+:title Blocks
+:label block
+
+In many cases it helps to partition addresses into the form block:offset rather than use a linear address. Hexxed supports using this form of address and it is also supported in the <<navigating|navigation commands>>.
+
+The default block size is 512 octets (bytes) - ie., ::0x200:: but an arbitrary size can be chosen.
+
